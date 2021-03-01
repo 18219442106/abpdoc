@@ -1,0 +1,34 @@
+{
+	"items": [{
+			"text": "入门",
+			"items": [{
+				"text": "Web应用程序",
+				"path": "Getting-Started.md"
+			}]
+		},
+		{
+			"text": "启动模板",
+			"items": [{
+					"text": "概述",
+					"path": "Startup-Templates/Index.md"
+				},
+				{
+					"text": "应用程序",
+					"path": "Startup-Templates/Application.md"
+				},
+				{
+					"text": "模块",
+					"path": "Startup-Templates/Module.md"
+				},
+				{
+					"text": "控制台",
+					"path": "Startup-Templates/Console.md"
+				},
+				{
+					"text": "WPF",
+					"path": "Startup-Templates/WPF.md"
+				}
+			]
+		}
+	]
+}
